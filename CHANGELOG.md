@@ -11,3 +11,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created the repository on GitHub.
 - Initialized Git LFS.
 - Added initial project documentation.
+- Added the template for the website in the `docs` folder.
