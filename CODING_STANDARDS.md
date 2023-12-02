@@ -18,8 +18,9 @@ Welcome to the Five Devs coding standards. Following consistent coding standards
 
 ## Blueprint Naming Conventions
 
-- Use CamelCase for variable and function names in Blueprints (e.g., `myVariable`, `myFunction`).
-- Use PascalCase for custom Blueprint classes (e.g., `MyCharacter_BP`, `MyWidget_BP`).
+- Follow the [Unreal Engine Style Guide](https://docs.unrealengine.com/5.3/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/) for naming conventions.
+- Follow the [Blueprint Best Practices](https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/) for naming conventions.
+- Use PascalCase for custom Blueprint classes (e.g., `BP_MyCharacter`, `BP_MyWidget`).
 - Prefix boolean variables with "b" (e.g., `bIsEnabled`).
 
 ## Blueprint Organization
