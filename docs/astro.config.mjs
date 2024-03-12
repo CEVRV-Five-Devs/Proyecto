@@ -47,6 +47,7 @@ export default defineConfig({
             { label: 'Presupuesto', link: '/' },
             {
               label: 'Herramientas',
+              collapsed: true,
               items: [
                 { label: 'Software', link: '/' },
                 { label: 'Hardware', link: '/' }
@@ -54,6 +55,7 @@ export default defineConfig({
             },
             {
               label: 'Desarrollo',
+              collapsed: true,
               items: [
                 { label: 'Equipo', link: '/' },
                 { label: 'Metodología', link: '/' },
@@ -62,6 +64,7 @@ export default defineConfig({
             },
             {
               label: 'Lanzamiento',
+              collapsed: true,
               items: [
                 { label: 'Recepción', link: '/' },
                 { label: 'Actualizaciones', link: '/' },
