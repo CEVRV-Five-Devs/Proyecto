@@ -1,4 +1,4 @@
 ---
-title: Welcome to Starlight
+title: Atractivo del proyecto
 description: Get started building your docs site with Starlight.
 ---

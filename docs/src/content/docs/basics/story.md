@@ -1,5 +1,5 @@
 ---
-title: Welcome to Starlight
+title: Historia y narrativa
 description: Get started building your docs site with Starlight.
 ---
 
